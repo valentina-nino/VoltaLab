@@ -2,7 +2,7 @@
 
 **VoltaLab** es una plataforma interactiva y educativa diseñada para visualizar, simular y comprender fenómenos físicos de ondas, interferencias y conceptos electrodinámicos de manera intuitiva.
 
-🚀 **Demo en vivo:** [https://voltalab1.vercel.app](https://voltalab1.vercel.app) *(reemplaza con tu enlace de Vercel si es diferente)*
+🚀 **Demo en vivo:** [https://voltalab1.vercel.app](https://voltalab1.vercel.app) 
 
 ---
 
